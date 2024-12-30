@@ -1,0 +1,6 @@
+str: +2
+dex: -1
+con: +3
+int: 0
+wis: +3
+cha: -1 
